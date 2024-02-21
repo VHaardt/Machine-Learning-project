@@ -1,2 +1,4 @@
-# Machine-Learning
-University project for the "Machine Learning" course
+# University project for the "Machine Learning" course
+Diabetes Classifier
+---
+In this study, held by KNIME and the University of Milano-Bicocca as part of a machine learning challenge, a diabetes dataset was analyzed using the KNIME platform to develop a predictive model for determining the risk of developing diabetes. The aim of the project was to leverage the power of machine learning algorithms to improve early diagnosis and reduce the negative impacts of this chronic disease. The results of the analysis revealed insights into the risk factors for developing diabetes and the model developed with KNIME had promising accuracy in predicting the risk. This study highlights the potential for machine learning in healthcare and the versatility of the KNIME platform in data analysis and model development. The findings of this project will serve as a useful tool for healthcare professionals in their efforts to mitigate the harm caused by this disease.
